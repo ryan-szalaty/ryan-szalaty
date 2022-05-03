@@ -1,4 +1,4 @@
-- 👋 Ryan, full-time English instructor and full-time web developer
+- 👋 Ryan, full-time English instructor and full-time web developer.
 - 👀 MERN and Ruby on Rails are my current strengths.
 - 🌱 Advanced features of React and Rails are on my list for learning.
 - 💞️ If you'd like to collab, feel free to message me.
