@@ -1,6 +1,6 @@
   Hello, and thanks for visiting my page. I'm a hobbyist developer looking to break into the world of software development in the next couple of years. Web Development has been my area of concentration so far, and I have built a couple of front-end applications with things like Bootstrap 5 and Tailwind CSS. 
   
-  One example of a good project I've done is a Pokedex. You can see a pic here. It was made through React!
+  One example of a good project I've done is a Pokedex. You can see a pic here. It was made through React and takes data from an external API to display on the front end!
   
   
   <img width="400" height="400" alt="pokemon" src="https://user-images.githubusercontent.com/64384242/166128196-dc61d44b-2f28-4d13-a6f3-e262e06d3394.png">
